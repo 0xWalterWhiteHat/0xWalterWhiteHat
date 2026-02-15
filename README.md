@@ -1,3 +1,5 @@
+<!-- This project is the GitHub profile and portfolio of 0xWalterWhiteHat, a Smart Contract Security Researcher focused on DeFi protocol auditing. -->
+
 <div align="center">
   <!-- The Cinematic Banner -->
       
